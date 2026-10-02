@@ -1,0 +1,41 @@
+persona,rank,movie,genres,because_you_liked,when
+Pixar & animation fan,1,Shrek (2001),"Adventure, Animation, Children, Comedy, Fantasy, Romance","Monsters, Inc. (2001)",Good any time of year
+Pixar & animation fan,2,Toy Story 2 (1999),"Adventure, Animation, Children, Comedy, Fantasy",Toy Story (1995),Good any time of year
+Pixar & animation fan,3,How to Train Your Dragon (2010),"Adventure, Animation, Children, Fantasy, IMAX",Toy Story 3 (2010),Good any time of year
+Pixar & animation fan,4,Big Hero 6 (2014),"Action, Animation, Comedy",Inside Out (2015),Good any time of year
+Pixar & animation fan,5,Zootopia (2016),"Action, Adventure, Animation, Children, Comedy",Inside Out (2015),Good any time of year
+Pixar & animation fan,6,Shrek 2 (2004),"Adventure, Animation, Children, Comedy, Musical, Romance",Finding Nemo (2003),Good any time of year
+Pixar & animation fan,7,Kung Fu Panda (2008),"Action, Animation, Children, Comedy, IMAX",Ratatouille (2007),Good any time of year
+Pixar & animation fan,8,Ice Age (2002),"Adventure, Animation, Children, Comedy","Monsters, Inc. (2001)",Good any time of year
+Pixar & animation fan,9,Avatar (2009),"Action, Adventure, Sci-Fi, IMAX",Up (2009),Good any time of year
+Pixar & animation fan,10,Despicable Me (2010),"Animation, Children, Comedy, Crime",Toy Story 3 (2010),Good any time of year
+1970s–80s horror fan,1,Carrie (1976),"Drama, Fantasy, Horror, Thriller",A Nightmare on Elm Street (1984),Good any time of year
+1970s–80s horror fan,2,Jaws (1975),"Action, Horror",Alien (1979),Good any time of year
+1970s–80s horror fan,3,Rosemary's Baby (1968),"Drama, Horror, Thriller",The Exorcist (1973),Save for October (starts in 5 days)
+1970s–80s horror fan,4,Aliens (1986),"Action, Adventure, Horror, Sci-Fi",Alien (1979),Good any time of year
+1970s–80s horror fan,5,The Omen (1976),"Horror, Mystery, Thriller",Halloween (1978),Good any time of year
+1970s–80s horror fan,6,Psycho (1960),"Crime, Horror",The Shining (1980),Good any time of year
+1970s–80s horror fan,7,An American Werewolf in London (1981),"Comedy, Horror, Thriller",A Nightmare on Elm Street (1984),Good any time of year
+1970s–80s horror fan,8,Evil Dead II (Dead by Dawn) (1987),"Action, Comedy, Fantasy, Horror",The Evil Dead (1981),Good any time of year
+1970s–80s horror fan,9,Night of the Living Dead (1968),"Horror, Sci-Fi, Thriller",Halloween (1978),Good any time of year
+1970s–80s horror fan,10,The Birds (1963),"Horror, Thriller",The Exorcist (1973),Good any time of year
+Nolan-style sci-fi fan,1,Fight Club (1999),"Action, Crime, Drama, Thriller",The Matrix (1999),Good any time of year
+Nolan-style sci-fi fan,2,The Shawshank Redemption (1994),"Crime, Drama",The Matrix (1999),Good any time of year
+Nolan-style sci-fi fan,3,The Martian (2015),"Adventure, Drama, Sci-Fi",Interstellar (2014),Good any time of year
+Nolan-style sci-fi fan,4,The Departed (2006),"Crime, Drama, Thriller",The Prestige (2006),Good any time of year
+Nolan-style sci-fi fan,5,The Lord of the Rings: The Fellowship of the Ring (2001),"Adventure, Fantasy",The Matrix (1999),Good any time of year
+Nolan-style sci-fi fan,6,The Lord of the Rings: The Return of the King (2003),"Action, Adventure, Drama, Fantasy",The Matrix (1999),Good any time of year
+Nolan-style sci-fi fan,7,The Usual Suspects (1995),"Crime, Mystery, Thriller",Memento (2000),Good any time of year
+Nolan-style sci-fi fan,8,Eternal Sunshine of the Spotless Mind (2004),"Drama, Romance, Sci-Fi",Memento (2000),Good any time of year
+Nolan-style sci-fi fan,9,Ex Machina (2015),"Drama, Sci-Fi, Thriller",Interstellar (2014),Good any time of year
+Nolan-style sci-fi fan,10,Batman Begins (2005),"Action, Crime, IMAX",The Dark Knight (2008),Good any time of year
+Romantic-comedy fan,1,Ghost (1990),"Comedy, Drama, Fantasy, Romance, Thriller",Pretty Woman (1990),Good any time of year
+Romantic-comedy fan,2,My Best Friend's Wedding (1997),"Comedy, Romance",You've Got Mail (1998),Good any time of year
+Romantic-comedy fan,3,Bridget Jones's Diary (2001),"Comedy, Drama, Romance",Notting Hill (1999),Save for Christmas season (December)
+Romantic-comedy fan,4,The Notebook (2004),"Drama, Romance",Love Actually (2003),Good any time of year
+Romantic-comedy fan,5,Mrs. Doubtfire (1993),"Comedy, Drama",Pretty Woman (1990),Good any time of year
+Romantic-comedy fan,6,Dirty Dancing (1987),"Drama, Musical, Romance",When Harry Met Sally... (1989),Good any time of year
+Romantic-comedy fan,7,The Devil Wears Prada (2006),"Comedy, Drama",The Proposal (2009),Good any time of year
+Romantic-comedy fan,8,About a Boy (2002),"Comedy, Drama, Romance",Love Actually (2003),Good any time of year
+Romantic-comedy fan,9,While You Were Sleeping (1995),"Comedy, Romance",Sleepless in Seattle (1993),Save for Christmas season (December)
+Romantic-comedy fan,10,Clueless (1995),"Comedy, Romance",Sleepless in Seattle (1993),Good any time of year

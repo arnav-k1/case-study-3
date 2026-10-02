@@ -1,0 +1,7 @@
+,value
+family,implicitmf
+params,"{""embedding_size"": 128, ""weight"": 10.0, ""regularization"": 0.1, ""epochs"": 10}"
+train_ratings,31498689
+train_users,200947
+train_movies,16034
+train_seconds,273.7

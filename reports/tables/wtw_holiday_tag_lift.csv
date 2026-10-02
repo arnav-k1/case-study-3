@@ -1,0 +1,8 @@
+holiday,window,tagged_movies,clean_ratings,window_lift,used
+halloween,Oct–Oct,72,72117,1.2189028506909017,True
+christmas,Dec–Dec,276,253342,1.2116644226482296,True
+new_year,Dec–Jan,20,17527,1.0612398254555055,False
+thanksgiving,Nov–Nov,14,24938,1.0553328690049506,False
+valentine,Feb–Feb,7,5047,1.0133848850486853,False
+winter,Dec–Feb,114,182199,0.9994379883864526,False
+summer,Jun–Aug,66,49602,0.9781885854323923,False

@@ -1,0 +1,15 @@
+# Data (MovieLens license: do not redistribute via this repo)
+data/
+*.zip
+*.parquet
+# Trained model artifacts (large, reproducible)
+models/
+# Env / caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+# Office temp files
+~$*
+*.tmp

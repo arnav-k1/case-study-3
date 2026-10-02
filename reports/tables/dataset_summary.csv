@@ -1,0 +1,22 @@
+,value
+ratings,32000204
+users,200948
+movies_rated,84432
+movies_in_catalog,87585
+tag_applications,2000072
+density_pct,0.18860881306254365
+sparsity_pct,99.81139118693746
+mean_rating,3.540395498275757
+median_ratings_per_user,73.0
+mean_ratings_per_user,159.24619304496684
+max_ratings_per_user,33332
+median_ratings_per_movie,5.0
+movies_with_lt5_ratings_pct,48.024445707788516
+movies_with_ge50_ratings,16034
+ratings_share_top1pct_movies,54.84963158359866
+share_ratings_within_24h_of_users_first_rating_pct,61.38427117527125
+median_user_share_first_day_pct,100.0
+users_with_all_ratings_on_first_day_pct,58.78585504707685
+first_rating_utc,1995-01-09 11:46:44
+last_rating_utc,2023-10-13 02:29:07
+half_star_share_pct,31.26756941924495
